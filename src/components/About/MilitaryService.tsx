@@ -6,7 +6,7 @@ const MilitaryService = () => {
         Available for Work
       </h3>
       <p className="text-emerald-100 mb-4 font-semibold">
-        Recently completed military service in December 2024 and now available
+        Recently completed military service in June 2025 and now available
         for full-time roles.
       </p>
       <div className="space-y-3 text-white/80">
